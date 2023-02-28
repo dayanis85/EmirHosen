@@ -8,7 +8,7 @@ Developer & Teacher
 *   🤝  I'm open to collaborating on interesting projects as a web developer
 
 <a href="https://www.github.com/emirhosen" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/badrnezhad?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+                  src="https://img.shields.io/github/followers/EmirHosen?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
                   
 ### Skills
 <p align="left">
